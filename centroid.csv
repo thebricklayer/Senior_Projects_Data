@@ -1,4 +1,4 @@
-Time Stamp [s],# of Frames,# Horizontal Pixels to Centroid,# Vertical Pixels to Centroid,Horizontal Turning Angle [deg],Vertical Turning Angle [deg] 
+Time Stamp [s],# Frames,# Horizontal Pixels to Centroid,# Vertical Pixels to Centroid,Horizontal Turning Angle [deg],Vertical Turning Angle [deg] 
 0.3057251059999544,0,-1.0,1.0,0.0229375,0.021875
 1.858040520999566,12,143.0,117.0,-3.2800624999999997,2.559375
 2.734485349001261,20,82.0,35.0,-1.880875,0.765625
